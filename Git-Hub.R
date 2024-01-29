@@ -1,6 +1,6 @@
 # Configure git
 library(usethis)
-use_git_config(user.name = "Jahun Lee", user.email = "jlee903@uic.edu")
+use_git_config(user.name = "jahunlee", user.email = "jahun.lee@hotmail.com")
 
 
 # Create a Local Git Repository
