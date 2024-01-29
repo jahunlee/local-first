@@ -7,3 +7,16 @@ use_git_config(user.name = "jahunlee", user.email = "jahun.lee@hotmail.com")
 
 
 use_git()
+
+
+#Creat a GitHub personal access token (PAT)
+create_github_token()
+              
+
+#Register your PAT
+library(gitcreds)
+gitcreds_set()
+
+
+
+use_github()
